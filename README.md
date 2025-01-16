@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shokapgg
+- 👀 I’m interested in Game and Software Development
+- 🌱 I’m currently learning App development in C++
+- 💞️ I’m looking to collaborate on anything that helps me learn
+- ⚡ Fun fact: ...
