@@ -2,4 +2,8 @@
 - 👀 I’m interested in Game and Software Development
 - 🌱 I’m currently learning App development in C++
 - 💞️ I’m looking to collaborate on anything that helps me learn
-- ⚡ Fun fact: ...
+- 📫 How to reach me? akoskredar@gmail.com OR discord: shokapgg
+- I’m Hungarian (I live in Romania currently)
+- I can speak Hungarian(mothertongue), English, Romanian
+- Timezone: GMT+3
+- ⚡ Fun fact: Rust is named after a particularly robust type of fungi that is “over-engineered for survival”
